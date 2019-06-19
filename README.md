@@ -1,1 +1,1 @@
-# exchange-curreny
+# exchange-currency
